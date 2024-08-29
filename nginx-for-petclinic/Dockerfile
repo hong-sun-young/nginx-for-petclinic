@@ -1,4 +1,4 @@
-#FROM nginxinc/nginx-unprivileged:latest
+FROM nginxinc/nginx-unprivileged:latest
 
 ARG conf
 
